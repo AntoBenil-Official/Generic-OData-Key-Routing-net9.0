@@ -1,0 +1,6 @@
+@GenericControllerTest_HostAddress = http://localhost:5014
+
+GET {{GenericControllerTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
